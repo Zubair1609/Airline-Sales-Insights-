@@ -20,25 +20,26 @@ Analyze airline sales data to identify top revenue-contributing routes and under
 ## Visuals
 
 ### Monthly Revenue
-![Monthly Revenue](Visuals/Monthly%20Revenue.png)
+![Monthly Revenue](Visuals/Monthly_Revenue.png)
 
 ### Monthly Revenue (Lowest vs Highest)
-![Monthly Revenue Lowest vs Highest](Visuals/Monthly%20Revenue%20(Lowest%20vs%20Highest).png)
+![Monthly Revenue Lowest vs Highest](Visuals/Monthly_Revenue_Lowest_vs_Highest.png)
 
 ### Quarterly Revenue Trend
-![Quarterly Revenue Trend](Visuals/Quarterly%20Revenue%20Trend%20(Q1-%20Q3).png) 
+![Quarterly Revenue Trend](Visuals/Quarterly_Revenue_Trend_Q1_Q3.png)
 
 ### Revenue by Route
-![Revenue by Route](Visuals/Revenue%20by%20Route.png)
+![Revenue by Route](Visuals/Revenue_by_Route.png)
 
 ### Top 3 Routes by Revenue
-![Top 3 Routes](Visuals/Top%203%20Route%20by%20Revenue.png)
+![Top 3 Routes](Visuals/Top_3_Routes.png)
 
 ### Lowest 3 Routes by Revenue
-![Lowest 3 Routes](Visuals/Lowest%203%20Route%20by%20Revenue.png)
+![Lowest 3 Routes](Visuals/Lowest_3_Routes.png)
 
 ### Distribution of Revenue per Passenger
-![Revenue Distribution](Visuals/Distribution%20of%20Revenue%20per%20Passenger.png)
+![Revenue Distribution](Visuals/Distribution_Revenue_per_Passenger.png)
+
 
 ## Visual Summary (3-Word Insights + Explanation)
 
