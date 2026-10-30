@@ -1,4 +1,4 @@
-# Airline Sales Insights ✈️
+## Airline Sales Insights ✈️
 Python Mini Project 1 // Airline Sales
 
 ## Objective
@@ -15,7 +15,16 @@ Analyze airline sales data to identify top revenue-contributing routes and under
 1. Group sales data by route.
 2. Calculate total revenue per route.
 3. Compute % contribution of each route.
-4. Visualize top routes using pie/bar charts.
+4. Visualize top routes using pie/bar charts and revenue dashboards.
+
+## Power BI Dashboard
+
+Developed an interactive Power BI dashboard to analyze airline sales performance, including revenue KPIs, passenger metrics, route analysis, and monthly revenue trends.
+
+# Airline Sales Insights Dashboard
+
+<img width="1916" height="1091" alt="image" src="https://github.com/user-attachments/assets/473d77d8-11e6-46f3-9a68-002e2b854df9" />
+
 
 ## Visuals
 
@@ -45,24 +54,24 @@ Analyze airline sales data to identify top revenue-contributing routes and under
 
 | Visualization                        | Key Insight (3 words)       | Explanation                                                                 |
 |--------------------------------------|-----------------------------|-----------------------------------------------------------------------------|
-| Monthly Revenue                      | Peak vs Low                 | May recorded the highest (~145k), while January was the lowest (~95k).      |
+| Monthly Revenue                      | Peak vs Low                 | Revenue increased steadily over the analyzed period, with clear differences between peak and low-performing months.      |
 | Monthly Revenue (Lowest vs Highest)  | Seasonal Demand Gap         | Clear gap between peak and trough months highlights seasonality in demand.  |
-| Quarterly Revenue Trend              | Growth then Stabilization   | Q2 shows strong growth momentum, while Q3 stabilizes.                       |
-| Revenue by Route                     | BLR Route Dominates         | Bengaluru (BLR) route contributes the most revenue, Kochi (COK) lags.       |
+| Quarterly Revenue Trend              | Strong Revenue Growth       | Revenue increased significantly from Q1 to Q2.                      |
+| Revenue by Route                     | Top Route Performance       | BOM-MAA generated the highest revenue, while DEL-BOM contributed the least.       |
 | Top 3 Routes                         | High Route Dependence       | Heavy reliance on top routes drives overall performance.                    |
 | Lowest 3 Routes                      | Weak Route Contribution     | Weak routes contribute minimally, suggesting optimization or reconsideration.|
 | Revenue Distribution per Passenger   | Uneven Yield Spread         | Revenue is unevenly distributed, with a small group of passengers yielding more. |
 
 
 ## Insights
-- May recorded the highest monthly revenue (~145k), while January was the lowest (~95k).
-- The route to Bengaluru (BLR) is the strongest contributor, whereas the route to Kochi (COK) shows weaker performance.
+- May recorded the highest monthly revenue.
+- BOM-MAA generated the highest revenue contribution.
 - Heavy reliance on top routes indicates potential risk if demand shifts.
 
 ## Recommendations
 
-- **Diversify Routes:** Reduce dependency on Bengaluru (BLR) by strengthening secondary routes and exploring new markets.  
-- **Boost Weak Performers:** Reassess low‑revenue routes (e.g., Kochi) for pricing, promotions, or possible restructuring.  
+- **Diversify Routes**: Reduce dependency on top-performing routes such as BOM-MAA by strengthening secondary routes and exploring new market opportunities.
+- **Boost Weak Performers:** Reassess lower-performing routes such as DEL-BOM through pricing optimization, targeted promotions, and demand analysis.  
 - **Plan for Seasonality:** Anticipate demand fluctuations by adjusting capacity and marketing during low‑revenue months.  
 - **Enhance Passenger Yield:** Target high‑yield passenger segments with loyalty programs and premium services.  
 - **Quarterly Monitoring:** Maintain close tracking of quarterly trends to respond quickly to growth or stabilization phases.  
@@ -71,5 +80,7 @@ Analyze airline sales data to identify top revenue-contributing routes and under
 
 ## Tech Stack
 - Python (Pandas, Matplotlib)
+- Power BI
 - Jupyter Notebook
-- GitHub for version control
+- Excel
+- GitHub for Version Control
